@@ -262,7 +262,7 @@ class Dashboard extends BaseController{
         if (null == $day) {
             $day = $this->format('j');
         }
-        $daysInMonth = cal_days_in_month(CAL_GREGORIAN, $month, $year);
+        $daysInMonth = (int)date('t', strtotime($year . '-' . $month . '-01'));
         $day = $day > $daysInMonth ? $daysInMonth : $day;
         $return = $year.'-'.$month.'-'.$day.' 00:00:00';
         return $return;
