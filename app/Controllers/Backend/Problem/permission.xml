@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>QL- Nhóm vấn đề</title>
+		<item>
+			<param>backend/problem/catalogue/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/problem/catalogue/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/problem/catalogue/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/problem/catalogue/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>QL- Vấn đề</title>
+		<item>
+			<param>backend/problem/problem/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/problem/problem/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/problem/problem/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/problem/problem/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+</module>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Nhóm - [Kho Giao diện]</title>
+		<item>
+			<param>backend/display/catalogue/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/display/catalogue/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/display/catalogue/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/display/catalogue/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Danh sách - [Kho Giao diện]</title>
+		<item>
+			<param>backend/display/display/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/display/display/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/display/display/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/display/display/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+</module>

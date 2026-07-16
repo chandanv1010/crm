@@ -1,0 +1,31 @@
+{
+  "name": "crm.htvietnam.com",
+  "version": "1.0.0",
+  "description": "## What is CodeIgniter?",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crm",
+    "ht",
+    "vietnam"
+  ],
+  "author": "tuan nguyen cong",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/preset-react": "^7.10.4",
+    "axios": "^0.20.0",
+    "babel-loader": "^8.1.0",
+    "path": "^0.12.7",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "react-select": "^3.1.0",
+    "react-select-country-list": "^2.2.1"
+  }
+}

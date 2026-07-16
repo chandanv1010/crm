@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>QL- Chi nhánh</title>
+		<item>
+			<param>backend/branch/branch/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/branch/branch/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/branch/branch/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/branch/branch/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		
+	</permissions>
+</module>

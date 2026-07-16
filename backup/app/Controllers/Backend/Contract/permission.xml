@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Hợp Đồng - [Hosting]</title>
+		<item>
+			<param>backend/contract/hosting/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/contract/hosting/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/contract/hosting/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/contract/hosting/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Hợp Đồng - [Domain]</title>
+		<item>
+			<param>backend/contract/domain/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/contract/domain/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/contract/domain/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/contract/domain/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Hợp Đồng - [Quản trị Website]</title>
+		<item>
+			<param>backend/contract/website/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/contract/website/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/contract/website/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/contract/website/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	
+</module>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>QL- Nhóm thời gian xử lí</title>
+		<item>
+			<param>backend/deadline/catalogue/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/deadline/catalogue/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/deadline/catalogue/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/deadline/catalogue/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>QL- Thời gian xử lí</title>
+		<item>
+			<param>backend/deadline/deadline/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/deadline/deadline/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/deadline/deadline/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/deadline/deadline/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+</module>

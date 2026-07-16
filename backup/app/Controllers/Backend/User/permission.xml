@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Nhóm - [Thành viên]</title>
+		<item>
+			<param>backend/user/catalogue/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/user/catalogue/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/user/catalogue/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/user/catalogue/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Tài khoản - [Thành viên]</title>
+		<item>
+			<param>backend/user/user/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/user/user/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/user/user/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/user/user/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Upload</title>
+		<item>
+			<param>All</param>
+			<description>Toàn quyền</description>
+		</item>
+		<item>
+			<param>folderView</param>
+			<description>Xem Folder</description>
+		</item>
+		<item>
+			<param>folderCreate</param>
+			<description>Thêm Folder</description>
+		</item>
+		<item>
+			<param>folderRename</param>
+			<description>Đổi tên Folder</description>
+		</item>
+		<item>
+			<param>folderDelete</param>
+			<description>Xóa Folder</description>
+		</item>
+		<item>
+			<param>fileView</param>
+			<description>Xem File</description>
+		</item>
+		<item>
+			<param>fileUpload</param>
+			<description>Upload File</description>
+		</item>
+		<item>
+			<param>fileRename</param>
+			<description>Đổi tên File</description>
+		</item>
+		<item>
+			<param>fileDelete</param>
+			<description>Xóa File</description>
+		</item>
+	</permissions>
+</module>

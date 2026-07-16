@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>Dịch vụ - [VPS]</title>
+		<item>
+			<param>backend/service/vps/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/service/vps/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/service/vps/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/service/vps/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Dịch Vụ - [Hosting]</title>
+		<item>
+			<param>backend/service/hosting/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/service/hosting/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/service/hosting/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/service/hosting/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Dịch Vụ - [Google Adwords]</title>
+		<item>
+			<param>backend/service/google/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/service/google/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/service/google/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/service/google/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Dịch Vụ - [Domain]</title>
+		<item>
+			<param>backend/service/domain/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/service/domain/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/service/domain/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/service/domain/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>Dịch Vụ - [Quản trị Website]</title>
+		<item>
+			<param>backend/service/manage/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend/service/manage/create</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend/service/manage/update</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend/service/manage/delete</param>
+			<description>Xóa</description>
+		</item>
+	</permissions>
+	
+</module>
